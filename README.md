@@ -4,6 +4,10 @@
 
 [CLICK HERE TO VIEW THE COLLAB](https://drive.google.com/file/d/1TJS__8U92715NpzRUAc-Ec3cIO-u-aqE/view?usp=sharing).
 
+Performance Comparison Table
+
+<img width="371" height="382" alt="image" src="https://github.com/user-attachments/assets/82996fb0-469b-47d6-b545-b3d85c0f0fd3" />
+
 
 A. Model Performance
 
