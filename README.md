@@ -2,4 +2,4 @@
 
 # Google Collab
 
-[CLICK HERE TO VIEW THE COLLAB](https://colab.research.google.com/drive/1oLAZ5_RuPZqo62ncksMrDppxkUJXQHqf?usp=sharing).
+[CLICK HERE TO VIEW THE COLLAB](https://drive.google.com/file/d/1TJS__8U92715NpzRUAc-Ec3cIO-u-aqE/view?usp=sharing).
