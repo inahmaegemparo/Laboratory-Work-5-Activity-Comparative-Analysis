@@ -6,7 +6,7 @@
 
 Performance Comparison Table
 
-<img width="371" height="382" alt="image" src="https://github.com/user-attachments/assets/82996fb0-469b-47d6-b545-b3d85c0f0fd3" />
+<img width="661" height="336" alt="image" src="https://github.com/user-attachments/assets/e67af2d3-6584-4053-b2c3-7511286f8cad" />
 
 
 A. Model Performance
