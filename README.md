@@ -6,8 +6,11 @@
 
 # New Keras Model
 
-[CLICK HERE TO VIEW KERAS](https://drive.google.com/file/d/1AVMQNw_ZyCZDHrHzTlA1NTRgDjJfTNyE/view?usp=drive_link).
+[CLICK HERE TO VIEW KERAS](https://colab.research.google.com/drive/1fFpeLJsBUJZwMKkq7uBsegPenKfyeGCN?usp=sharing).
 
+# GDRIVE
+
+[CLICK HERE TO VIEW GDRIVE](https://drive.google.com/drive/folders/1_LpHNq9zK71ilw0VssJgAjkJVpPm4vOV?usp=sharing).
 
 
 Performance Comparison Table
