@@ -6,7 +6,7 @@
 
 # New Keras Model
 
-[CLICK HERE TO VIEW THE COLLAB](https://drive.google.com/file/d/1AVMQNw_ZyCZDHrHzTlA1NTRgDjJfTNyE/view?usp=drive_link).
+[CLICK HERE TO VIEW KERAS](https://drive.google.com/file/d/1AVMQNw_ZyCZDHrHzTlA1NTRgDjJfTNyE/view?usp=drive_link).
 
 
 
