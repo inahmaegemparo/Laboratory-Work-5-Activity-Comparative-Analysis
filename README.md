@@ -2,7 +2,7 @@
 
 # Google Collab
 
-[CLICK HERE TO VIEW THE COLLAB](https://drive.google.com/file/d/1TJS__8U92715NpzRUAc-Ec3cIO-u-aqE/view?usp=sharing).
+[CLICK HERE TO VIEW THE COLLAB](https://colab.research.google.com/drive/1QNOFl2ElBaFMG0AXBLhDfFOre6G-8Fxb?usp=sharing).
 
 Performance Comparison Table
 
