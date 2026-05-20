@@ -4,9 +4,15 @@
 
 [CLICK HERE TO VIEW THE COLLAB](https://colab.research.google.com/drive/1QNOFl2ElBaFMG0AXBLhDfFOre6G-8Fxb?usp=sharing).
 
+# New Keras Model
+
+[CLICK HERE TO VIEW THE COLLAB](https://drive.google.com/file/d/1AVMQNw_ZyCZDHrHzTlA1NTRgDjJfTNyE/view?usp=drive_link).
+
+
+
 Performance Comparison Table
 
-<img width="661" height="336" alt="image" src="https://github.com/user-attachments/assets/e67af2d3-6584-4053-b2c3-7511286f8cad" />
+<img width="529" height="478" alt="image" src="https://github.com/user-attachments/assets/949f2f68-7c80-4a35-acc6-2bf8859d4b26" />
 
 
 A. Model Performance
